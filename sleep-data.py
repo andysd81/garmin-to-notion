@@ -6,7 +6,7 @@ import pytz
 import os
 
 # Constants
-local_tz = pytz.timezone("GMT")
+local_tz = pytz.timezone("Europe/London")
 
 # Load environment variables
 load_dotenv()
